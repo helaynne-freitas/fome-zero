@@ -6,7 +6,7 @@ permitindo explorar dados por país, cidade e tipo de culinária, auxiliando na 
 ---
 
 ## Dashboard Online
-🔗 *Link do app Streamlit (adicione aqui após o deploy)*  
+*Link do app Streamlit (adicione aqui após o deploy)*  
 Exemplo: https://fome-zero-dashboard.streamlit.app
 
 ---
@@ -66,7 +66,7 @@ O dashboard apresenta indicadores como:
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 - **Fonte:** Kaggle  
 - **Nome:** Zomato Restaurants Dataset  
 - **Link:** https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-dataset
@@ -74,7 +74,7 @@ O dashboard apresenta indicadores como:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Python 3
 - Streamlit
 - Pandas
@@ -83,5 +83,6 @@ O dashboard apresenta indicadores como:
 - Git & GitHub
 
 ---
+
 
 
