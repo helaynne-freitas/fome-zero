@@ -7,7 +7,7 @@ permitindo explorar dados por país, cidade e tipo de culinária, auxiliando na 
 
 ## Dashboard Online
 *Link do app Streamlit (adicione aqui após o deploy)*  
-Exemplo: https://fome-zero-dashboard.streamlit.app
+Exemplo: https://helaynne-freitas-fome-zero-app-ngstio.streamlit.app/
 
 ---
 
@@ -83,6 +83,7 @@ O dashboard apresenta indicadores como:
 - Git & GitHub
 
 ---
+
 
 
 
